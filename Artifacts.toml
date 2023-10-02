@@ -1,0 +1,56 @@
+[[libmonitor]]
+arch = "aarch64"
+git-tree-sha1 = "6152f2f31eb9e51f5afb3b6d440a3b8ed03f511d"
+libc = "glibc"
+os = "linux"
+
+    [[libmonitor.download]]
+    sha256 = "cd1b6d0360648ee6a9deb0e2671da23d605cfca823cd33882a4effa2f2b4f226"
+    url = "https://github.com/JuliaBinaryWrappers/libmonitor_jll.jl/releases/download/libmonitor-v2023.3.15+0/libmonitor.v2023.3.15.aarch64-linux-gnu.tar.gz"
+[[libmonitor]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6cdae0ec9ba782e970f60180527da42b6fcaec1d"
+libc = "glibc"
+os = "linux"
+
+    [[libmonitor.download]]
+    sha256 = "7de6877be666e4822961a2d2b36635568942c09d91eec6cc468f9097090b9a46"
+    url = "https://github.com/JuliaBinaryWrappers/libmonitor_jll.jl/releases/download/libmonitor-v2023.3.15+0/libmonitor.v2023.3.15.armv6l-linux-gnueabihf.tar.gz"
+[[libmonitor]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "58d3f462190c3793e0ae2a33f1008a951e53fb9f"
+libc = "glibc"
+os = "linux"
+
+    [[libmonitor.download]]
+    sha256 = "9bf3bf170a8566dd143f7130948921e111dee4d08e9b354392d343232d785b8b"
+    url = "https://github.com/JuliaBinaryWrappers/libmonitor_jll.jl/releases/download/libmonitor-v2023.3.15+0/libmonitor.v2023.3.15.armv7l-linux-gnueabihf.tar.gz"
+[[libmonitor]]
+arch = "i686"
+git-tree-sha1 = "75eb55bc1703ea90f41bf038c22c93e7eeecf2ef"
+libc = "glibc"
+os = "linux"
+
+    [[libmonitor.download]]
+    sha256 = "07d9346cf998409c552302585bca33f3d651d16105e7205477bc442a4ccbf208"
+    url = "https://github.com/JuliaBinaryWrappers/libmonitor_jll.jl/releases/download/libmonitor-v2023.3.15+0/libmonitor.v2023.3.15.i686-linux-gnu.tar.gz"
+[[libmonitor]]
+arch = "powerpc64le"
+git-tree-sha1 = "550bd192951028044f76d40909a8ce28ae7bbf9a"
+libc = "glibc"
+os = "linux"
+
+    [[libmonitor.download]]
+    sha256 = "a33665a06e8654f4ba47119d92750e76be72b8bc3cef364a12dc371eedf0342b"
+    url = "https://github.com/JuliaBinaryWrappers/libmonitor_jll.jl/releases/download/libmonitor-v2023.3.15+0/libmonitor.v2023.3.15.powerpc64le-linux-gnu.tar.gz"
+[[libmonitor]]
+arch = "x86_64"
+git-tree-sha1 = "acccb91cdaca637654ffa2e28af58df47e133c20"
+libc = "glibc"
+os = "linux"
+
+    [[libmonitor.download]]
+    sha256 = "57dbf140bf12c26b080a38e72a4a40c90aa159007bcebe159f0beaf70a8bc0c6"
+    url = "https://github.com/JuliaBinaryWrappers/libmonitor_jll.jl/releases/download/libmonitor-v2023.3.15+0/libmonitor.v2023.3.15.x86_64-linux-gnu.tar.gz"
